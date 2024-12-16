@@ -1,0 +1,63 @@
+@import "./normalize.css";
+@import "./sytle.css";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img {
+  display: flex;
+  object-fit: cover;
+}
+
+h1 {
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  background-color: #111111;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.container {
+  height: 100%;
+  width: 384px;
+  height: 522px;
+  display: flex;
+  text-align: center;
+  background-color: #fff;
+
+  width: 100%;
+  max-width: 1380px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}

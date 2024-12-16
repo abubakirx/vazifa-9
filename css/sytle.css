@@ -1,0 +1,186 @@
+@import "./fonts.css";
+.teacher {
+  width: 100%;
+  max-width: 384px;
+  height: 611px;
+  background-color: #1f1f1f;
+  color: #fff;
+  justify-content: space-between;
+  padding-top: 40px;
+
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  text-align: center;
+}
+.teacher__container {
+  margin-left: auto;
+  margin-right: auto;
+}
+.teacher__img {
+  border-radius: 50%;
+  border-radius: 999px;
+}
+.teacher__home {
+  color: #c4f82a;
+}
+.teacher__name {
+  width: 304px;
+  height: 36px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 4px;
+}
+.teacher__desription {
+  width: 304px;
+  height: 21px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 24px;
+}
+.teacher__link {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__frontent {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__link {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__twitter {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__insta {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link:hover {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__frontent:hover {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__link:hover {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__twitter:hover {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
+.teacher__link__insta:hover {
+  color: #fff;
+  width: 304px;
+  height: 45px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  gap: 8px;
+  background-color: #333333;
+  margin-bottom: 16px;
+}
